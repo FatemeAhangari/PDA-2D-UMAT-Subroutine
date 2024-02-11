@@ -8,7 +8,7 @@ A progressive damage analysis with only unidirectional layer properties required
 The model was made of carbon/epoxy composites X850 with commonly-used balanced symmetric stacking sequence of [45/0/-45/0/90/0/45/0/-45/0]s. One-ply thickness is 0.185 mm.
 
 <p align="center">
-  <img src="Images/Figure_1.png" alt="Image Alt Text">
+  <img src="Images/Figure_1.png" alt="Image Alt Text" width = 500>
 </p>
 
 # Investigated Geometry and Notch Analysis
