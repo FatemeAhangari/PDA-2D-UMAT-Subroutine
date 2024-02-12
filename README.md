@@ -14,13 +14,15 @@ The model was made of carbon/epoxy composites X850 with commonly-used balanced s
 # Investigated Geometry and Notch Analysis
 The gemoetry consists of layered composite consisting of 20 layers, with one of the composite walls featuring an asymmetric notchis. The geometry and dimensions of the examined sample are visually detailed in Figure 1. The notch's geometry is extracted from reference [1], where the irregularities on the surface, as introduced in the reference, have been digitized. Subsequently, the critical notch geometry has been selected and thoroughly examined, representing the existing notch in this sample. The evaluated notch geometry is visually presented in Figure 1.
 
+In the simulation, Figure 2 has been utilized to determine the one-way elastic properties and required reinforcements for each layer based on the selected composite. The * parameters have been derived from calculations and engineering assumptions.
 <p align="center">
   <img src="Images/Fig_2.png" alt="Image Alt Text" width = 500>
 </p>
 
-In the simulation, Figure 2 has been utilized to determine the one-way elastic properties and required reinforcements for each layer based on the selected composite. The * parameters have been derived from calculations and engineering assumptions.
+# Evaluation and Comparison of Failure Indicators in Abaqus Simulation
 
 
+To assess and compare two types of failure indicators, a simple loading approach has been implemented on the parts. This involved modeling the tensile behavior by applying a displacement to one side of the parts, while the other side was subjected to specific boundary conditions. The loads and boundary conditions applied to the parts can be observed in Figure 2. A displacement of 4.5 mm was precisely applied to ensure the final failure of the parts.
 
 This refined text provides a more engaging and informative description of the investigated geometry and notch analysis for potential users of your GitHub repository.
 
