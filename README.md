@@ -22,7 +22,11 @@ In the simulation, Figure 2 has been utilized to determine the one-way elastic p
 # Evaluation and Comparison of Failure Indicators in Abaqus Simulation
 
 
-To assess and compare two types of failure indicators, a simple loading approach has been implemented on the parts. This involved modeling the tensile behavior by applying a displacement to one side of the parts, while the other side was subjected to specific boundary conditions. The loads and boundary conditions applied to the parts can be observed in Figure 2. A displacement of 4.5 mm was precisely applied to ensure the final failure of the parts.
+To assess and compare two types of failure indicators, a simple loading approach has been implemented on the parts. This involved modeling the tensile behavior by applying a displacement to one side of the parts, while the other side was subjected to specific boundary conditions. The loads and boundary conditions applied to the parts can be observed in Figure 3. A displacement of 4.5 mm was precisely applied to ensure the final failure of the parts.
+
+<p align="center">
+  <img src="Images/Fig_3.png" alt="Image Alt Text" width = 500>
+</p>
 
 This refined text provides a more engaging and informative description of the investigated geometry and notch analysis for potential users of your GitHub repository.
 
