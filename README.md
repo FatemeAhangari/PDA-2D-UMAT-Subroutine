@@ -5,7 +5,7 @@ A progressive damage analysis with only unidirectional layer properties required
 
 # Model definition
 
-The model was made of carbon/epoxy composites X850 with commonly-used balanced symmetric stacking sequence of [45/0/-45/0/90/0/45/0/-45/0]s. One-ply thickness is 0.185 mm.
+The model was made of carbon/epoxy composites X850 with commonly-used balanced symmetric stacking sequence of [45/0/-45/0/90/0/45/0/-45/0]s.
 
 <p align="center">
   <img src="Images/Figure_1.png" alt="Image Alt Text" width = 500>
@@ -13,6 +13,10 @@ The model was made of carbon/epoxy composites X850 with commonly-used balanced s
 
 # Investigated Geometry and Notch Analysis
 The gemoetry consists of layered composite consisting of 20 layers, with one of the composite walls featuring an asymmetric notchis. The geometry and dimensions of the examined sample are visually detailed in Figure 1. The notch's geometry is extracted from reference [1], where the irregularities on the surface, as introduced in the reference, have been digitized. Subsequently, the critical notch geometry has been selected and thoroughly examined, representing the existing notch in this sample. The evaluated notch geometry is visually presented in Figure 1.
+
+
+In the simulation, Figure 2 has been utilized to determine the one-way elastic properties and required reinforcements for each layer based on the selected composite. The * parameters have been derived from calculations and engineering assumptions.
+
 
 
 This refined text provides a more engaging and informative description of the investigated geometry and notch analysis for potential users of your GitHub repository.
