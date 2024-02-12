@@ -30,16 +30,17 @@ To assess and compare two types of failure indicators, a simple loading approach
 
 This refined text provides a more engaging and informative description of the investigated geometry and notch analysis for potential users of your GitHub repository.
 
-# Progressive Failure Analysis and Damage Assessment
+# Progressive Damage Analysis and Damage Assessment
 
+The comprehensive analysis of the PDA hinges on the precise determination of two fundamental parameters:
+- Identification of the employed failure criterion (Failure Criterion)
+- Establishment of the model for the degradation of mechanical properties (Material Degradation Model)
 
-The comprehensive analysis of the progressive failure process hinges on the precise determination of two fundamental parameters:
-Identification of the employed failure criterion (Failure Criterion)
-Establishment of the model for the degradation of mechanical properties (Material Degradation Model)
+As part of this study, the Hashin and Modified Yamada-Sun failure criteria have been meticulously scrutinized. These two criteria, as delineated in Figure 4, have been integrated into the evaluations to gauge their efficacy.
 
-As part of this study, the Hashin and Modified Yamada-Sun failure criteria have been meticulously scrutinized. These two criteria, as delineated in Table 2, have been integrated into the evaluations to gauge their efficacy.
-
-
+<p align="center">
+  <img src="Images/Fig_4.png" alt="Image Alt Text" width = 500>
+</p>
 
 
 
