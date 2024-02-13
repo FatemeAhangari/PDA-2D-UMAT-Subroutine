@@ -19,6 +19,10 @@ In the simulation, Figure 2 has been utilized to determine the one-way elastic p
   <img src="Images/Fig_2.png" alt="Image Alt Text" width = 500>
 </p>
 
+
+# Material properties
+Matetrial propeties can be found as Follo 
+
 # Evaluation and Comparison of Failure Indicators in Abaqus Simulation
 
 
